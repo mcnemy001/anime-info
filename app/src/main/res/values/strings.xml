@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AnimeInfo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="apply">Apply</string>
+    <string name="one_piece">One Piece</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="rating">4,9</string>
+    <string name="type">Family</string>
+    <string name="percentage">97%</string>
+    <string name="familarity">Similar</string>
+    <string name="information">One Piece is a long-running and globally popular Japanese anime based on the manga by Eiichiro Oda. The story centers around Monkey D. Luffy, a cheerful and determined young man who gains the ability to stretch his body like rubber after accidentally eating a mystical Devil Fruit. Inspired by the legendary pirate Red-Haired Shanks, Luffy embarks on a journey across the vast oceans to find the greatest treasure in the world, the One Piece, left behind by the late Pirate King, Gol D. Roger.\n\nLuffy’s goal is not only to discover the treasure but also to become the next Pirate King, a title that symbolizes ultimate freedom. Along his journey, he forms the Straw Hat Pirates, a diverse crew made up of dreamers, warriors, and misfits. Each crew member has their own goal: Zoro aims to become the world’s greatest swordsman, Nami dreams of drawing a complete map of the world, Sanji seeks the All Blue, Usopp wants to become a brave warrior of the sea, and many more.\n\nTogether, they explore mysterious islands, battle dangerous foes, clash with the oppressive World Government and powerful pirate crews, and uncover ancient secrets tied to the world’s true history. The series is known for its emotional storytelling, deep world-building, epic battles, and themes of friendship, loyalty, freedom, and chasing your dreams no matter how impossible they seem.\n\nWith over 1,000 episodes, One Piece continues to inspire and entertain millions of fans worldwide, proving itself as one of the most iconic and influential anime series of all time.</string>
+</resources>
